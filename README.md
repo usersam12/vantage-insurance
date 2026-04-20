@@ -12,10 +12,10 @@ Vantage Insurance is a small commercial insurance broker that focuses on propert
 
 
 ### Key Visuals
-![Bar graph depicting agents on y-axis and total premium volume on x-axis](images/Claim%20Volume%20By%20Industry.png)
+![Bar graph depicting agents on y-axis and total premium volume on x-axis](images/claim_volume_by_industry.png)
 Total Premium Volume By Agent
 
-![Treemap depicting total claim volume as a percentage by industry](images/Premium%20Volume%20by%20agent.png)
+![Treemap depicting total claim volume as a percentage by industry](images/premium_volume_by_agent.png)
 Total Claims Volume As a Percentage By Industry
 
 ### Key Questions

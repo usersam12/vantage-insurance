@@ -1,0 +1,16 @@
+policy_id,client_id,policy_type,carrier,effective_date,expiration_date,premium,coverage_limit,deductible,status
+P001,C001,General Liability,Travelers,2023-01-01,2024-01-01,18500,2000000,5000,Active
+P002,C001,Workers Comp,Hartford,2023-01-01,2024-01-01,24300,1000000,0,Active
+P003,C003,Commercial Auto,Progressive,01/15/2023,01/15/2024,11200,500000,1000,active
+P004,C004,General Liability,Travelers,2022-06-01,2023-06-01,9800,1000000,2500,Expired
+P005,C005,Marine Cargo,Zurich,2023-03-10,2024-03-10,,5000000,10000,Active
+P006,C006,General Liability,CNA,2023-07-01,2024-07-01,15600,2000000,5000,Active
+P007,C006,Property,CNA,2023-07-01,2024-07-01,22100,4000000,10000,Active
+P008,C007,Cyber Liability,Chubb,2022-11-01,2023-11-01,61000,10000000,25000,Expired
+P009,C007,General Liability,Chubb,2022-11-01,2023-11-01,38500,5000000,10000,Expirred
+P010,C008,General Liability,Travelers,2023-01-14,2024-01-14,4200,500000,1000,Active
+P011,C009,Property,Zurich,2023-08-19,2024-08-19,87000,20000000,25000,Active
+P012,C010,Workers Comp,Hartford,2020-06-22,,8900,1000000,0,Active
+P013,C011,General Liability,AIG,2023-12-01,2024-12-01,210000,10000000,50000,Active
+P014,C011,Cyber Liability,AIG,2023-12-01,2024-12-01,94500,5000000,25000,Active
+P015,C003,Commercial Auto,Progressive,2023-01-15,2024-01-15,11200,500000,1000,active

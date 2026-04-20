@@ -1,0 +1,13 @@
+agent_id,first_name,last_name,email,phone,region,hire_date,status
+A001,James,Holloway,j.holloway@vantageins.com,(312) 555-0192,Midwest,2018-03-12,Active
+A002,Maria,Delgado,m.delgado@vantageins.com,312.555.0184,Midwest,2019-07-24,active
+A003,Tom,Reeves,t.reeves@vantageins.com,+1-312-555-0176,Midwest,2017-11-05,ACTIVE
+A004,Sandra,Wu,s.wu@vantageins.com,(415) 555-0231,West,2020-01-15,Active
+A005,Sandra,Wu,s.wu@vantageins.com,(415) 555-0231,West,2020-01-15,Active
+A006,Derek,Pham,d.pham@vantageins.com,4155550219,West,2021-06-30,Active
+A007,Linda,Okafor,l.okafor@vantageins.com,(212) 555-0143,Northeast,03/14/2016,Active
+A008,Chris,Baxter,c.baxter@vantageins.com,(212) 555-0167,Northeast,,Inactive
+A009,Priya,Nair,p.nair@vantageins.com,(713) 555-0188,South,2022-09-01,Active
+A010,Priya,Nair,p.nair@vantageins.com,(713) 555-0188,South,2022-09-01,Active
+A011,Frank,Morales,f.morales@vantageins.com,,South,2015-04-22,Active
+A012,Ellen,Shaw,e.shaw@vantageins.com,(303) 555-0154,West,2023-02-10,Actve

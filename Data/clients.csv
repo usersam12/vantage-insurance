@@ -1,0 +1,13 @@
+client_id,company_name,industry,contact_name,contact_email,phone,state,agent_id,since_date,annual_revenue
+C001,Hargrove Construction LLC,Construction,Bill Hargrove,b.hargrove@hargroveconst.com,(312) 555-4401,IL,A001,2019-05-10,4200000
+C002,Hargrove Construction LLC,Construction,Bill Hargrove,b.hargrove@hargroveconst.com,(312) 555-4401,IL,A001,2019-05-10,4200000
+C003,Meridian Logistics,logistics,Paula Chen,p.chen@meridianlog.com,3125554892,IL,A002,2020-11-03,8750000
+C004,Apex Roofing Inc,Construction,Danny Kowalski,d.kowalski@apexroofing.com,(312) 555-3377,IL,A001,2021-02-18,1100000
+C005,Bluewater Marine,Marine,,,,(CA),A004,2018-09-25,3300000
+C006,Redstone Fabricators,Manufactoring,Tony Ricci,t.ricci@redstonefab.com,(415) 555-2291,CA,A004,2022-04-07,6500000
+C007,Summit Tech Group,Technology,Aisha Brooks,a.brooks@summittech.com,(212) 555-7712,NY,A007,2017-03-30,22000000
+C008,Valley Waste Services,Environmental,Greg Tanner,g.tanner@valleywaste.com,(713) 555-6603,TX,A009,2023-01-14,950000
+C009,Pinecrest Hotels,Hospitality,Renee Dupont,r.dupont@pinecresthotels.com,(303) 555-5541,CO,A012,2016-08-19,17500000
+C010,NorthStar Electrical,Construction,Mike Yuen,m.yuen@northstarelec.com,2125557734,NY,A007,2020-06-22,2800000
+C011,Coastal Pharma,Pharmaceutical,Sara Obi,s.obi@coastalpharma.com,(212) 555-8821,NY,,2019-12-01,41000000
+C012,Redstone Fabricators,Manufacturing,Tony Ricci,t.ricci@redstonefab.com,(415) 555-2291,CA,A004,2022-04-07,6500000

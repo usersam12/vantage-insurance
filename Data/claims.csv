@@ -1,0 +1,15 @@
+claim_id,policy_id,client_id,date_of_loss,date_reported,claim_type,amount_claimed,amount_paid,status,adjuster_notes
+CL001,P001,C001,2023-04-12,2023-04-15,Property Damage,45000,38000,Closed,Settled after inspection
+CL002,P002,C001,2023-06-03,2023-06-10,Workers Comp,12000,12000,Closed,
+CL003,P003,C003,04/22/2023,04/25/2023,Auto Collision,8500,7200,Closed,Third party involved
+CL004,P004,C004,2023-02-17,2023-03-01,General Liability,,0,Denied,Claim filed after policy expiration
+CL005,P008,C007,2022-12-15,2023-01-05,Cyber Breach,500000,425000,Closed,Ransomware event
+CL006,P011,C009,2023-09-30,2023-10-02,Property Damage,1200000,,,Pending adjuster review
+CL007,P013,C011,2024-01-10,2024-01-12,General Liability,75000,75000,Closed,Slip and fall on premises
+CL008,P014,C011,2024-02-28,2024-03-01,Cyber,320000,290000,Closed,Data breach - 3rd party vendor
+CL009,P006,C006,2023-10-14,2023-10-14,General Liabilty,22000,18500,Closed,Customer injury claim
+CL010,P010,C008,2023-11-05,2023-11-20,General Liability,3100,3100,Closed,
+CL011,P001,C001,2023-04-12,2023-04-15,Property Damage,45000,38000,Closed,Settled after inspection
+CL012,P012,C010,2023-08-19,,Workers Comp,67000,67000,Open,Long term disability claim - ongoing
+CL013,P009,C007,2023-07-22,2023-08-01,General Liability,15000,0,Denied,Policy lapsed at time of claim
+CL014,P011,C009,2023-12-01,2023-12-05,Property Damage,9999999,,Open,Hurricane damage - catastrophic loss estimate pending

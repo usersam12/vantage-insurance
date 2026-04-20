@@ -1,0 +1,76 @@
+{
+  "name": "Vantage Insurance",
+  "dataColors": [
+    "#1D6FA8",
+    "#2E8B6F",
+    "#C45B2A",
+    "#7B5EA7",
+    "#B8A000",
+    "#4A90A4"
+  ],
+  "background": "#F8F9FA",
+  "foreground": "#212529",
+  "tableAccent": "#1D6FA8",
+  "good": "#2E8B6F",
+  "neutral": "#B8A000",
+  "bad": "#C0392B",
+  "textClasses": {
+    "callout": {
+      "fontSize": 28,
+      "fontFace": "Verdana",
+      "color": "#212529"
+    },
+    "title": {
+      "fontSize": 14,
+      "fontFace": "Verdana Bold",
+      "color": "#212529"
+    },
+    "header": {
+      "fontSize": 12,
+      "fontFace": "Verdana",
+      "color": "#6C757D"
+    },
+    "label": {
+      "fontSize": 11,
+      "fontFace": "Verdana",
+      "color": "#6C757D"
+    }
+  },
+  "visualStyles": {
+    "barChart": {
+      "*": {
+        "dataPoint": [
+          {
+            "defaultColor": {
+              "solid": {
+                "color": "#1D6FA8"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "lineChart": {
+      "*": {
+        "dataPoint": [
+          {
+            "defaultColor": {
+              "solid": {
+                "color": "#1D6FA8"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "areaChart": {
+      "*": {
+        "dataPoint": [
+          {
+            "transparency": 40
+          }
+        ]
+      }
+    }
+  }
+}

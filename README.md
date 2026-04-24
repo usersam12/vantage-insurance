@@ -50,7 +50,7 @@ Finally, revenue leakage exists in two clients, Apex Roofing Inc and Bluewater M
 
 The key business questions are stored in [Key Business Questions SQL](vantage_key_business_q.sql) and the initial data cleaning is stored in a separate file [Vantage Data Clean SQL](vantage_data_clean.sql). 
 
-A download version of the Power BI report is available [Vantage Power BI Report](/Power BI Report/vantage_pbi.pbix) and as a viewable pdf [Vantage Power BI View](Power BI Report/vantage_pbi_view.pdf).
+A download version of the Power BI report is available [Vantage Power BI Report](vantage_pbi.pbix) and as a viewable pdf [Vantage Power BI View](vantage_pbi_view.pdf).
 
 ### SQL Techniques Used
 ```JOINs, CTEs, Window Functions, COALESCE, ABS, ROW NUMBER, IS NOT NULL```

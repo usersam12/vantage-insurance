@@ -12,10 +12,10 @@ Vantage Insurance is a small commercial insurance broker that focuses on propert
 
 
 ### Key Visuals
-![Bar graph depicting agents on y-axis and total premium volume on x-axis](images/claim_volume_by_industry.png)
+![Bar graph depicting agents on y-axis and total premium volume on x-axis](images/premium_volume_by_agent.png)
 Total Premium Volume By Agent
 
-![Treemap depicting total claim volume as a percentage by industry](images/premium_volume_by_agent.png)
+![Treemap depicting total claim volume as a percentage by industry](images/claim_volume_by_industry.png)
 Total Claims Volume As a Percentage By Industry
 
 ### Key Questions
@@ -91,3 +91,6 @@ In Q6, it should be noted that a CURRENT_SETTING() function would be necessary i
 
 
 
+
+
+[def]: Images/claim_volume_by_industry.png

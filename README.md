@@ -13,10 +13,10 @@ Vantage Insurance is a small commercial insurance broker that focuses on propert
 
 ### Key Visuals
 ![Bar graph depicting agents on y-axis and total premium volume on x-axis](Images/premium_volume_by_agent.png)
-Total Premium Volume By Agent
+Linda Okafor has the highest total premium value of *$304,000*
 
-![Treemap depicting total claim volume as a percentage by industry](Images/claim_volume_by_industry.png)
-Total Claims Volume As a Percentage By Industry
+![Treemap depicting total claim volume as a percentage by industry](Images/claims_volume_by_industry.png)
+Construction has the largest percentage of claim volume at *30.77%*
 
 ### Key Questions
 + Where do agent strengths lie across industry, clients, and premium spend?

@@ -6,16 +6,18 @@ Agent Performance, Claims Analysis, and Premium Reconciliation in a Commercial L
 Vantage Insurance is a small commercial insurance broker that focuses on property and casualty lines across multiple industries. Data reporting and collection is only contained in spreadsheets as are monthly and ad hoc reports. This report outlines the launch of a new manager oversight and reporting program aimed at increasing revenue and reducing risk exposure within our mid-market accounts. The goal is to align sales and underwriting teams more strategically around the acquisition of new business and reevaluate the risk profile of existing accounts. Vantage Insurance struggles with a lack of data infrastructure and reporting that leads to significant losses in premiums and outsized risk exposure, making Vantage unprofitable.
 
 ### Key Findings
-+ The loss ratio for Vantage Insurance is 182 across all active policies
-+ Total active premium value is $515K across all existing accounts
-+ Cyber Liability has a loss ratio that is 316% higher than the next policy type, which will require an expansion in underwriting teams for that policy type
++ The loss ratio for Vantage Insurance is 182 across all active policies.
++ Total active premium value is $515K across all existing accounts.
++ Cyber Liability has a loss ratio that is 316% higher than the next policy type, which will require an expansion in underwriting teams for that policy type.
 
 
 ### Key Visuals
 ![Bar graph depicting agents on y-axis and total premium volume on x-axis](Images/premium_volume_by_agent.png)
+
 Linda Okafor has the highest total premium value of *$304,000*
 
 ![Treemap depicting total claim volume as a percentage by industry](Images/claims_volume_by_industry.png)
+
 Construction has the largest percentage of claim volume at *30.77%*
 
 ### Key Questions
@@ -46,7 +48,9 @@ Finally, revenue leakage exists in two clients, Apex Roofing Inc and Bluewater M
 + Size: 5 tables, 10 to 15 rows each
 + Key tables: agents, claims, clients, policies, premium_payments
 
-The key business questions are stored in [Key Business Questions SQL](vantage_key_business_q.sql) and the initial data cleaning is stored in a separate file [Vantage Data Clean SQL](vantage_data_clean.sql).
+The key business questions are stored in [Key Business Questions SQL](vantage_key_business_q.sql) and the initial data cleaning is stored in a separate file [Vantage Data Clean SQL](vantage_data_clean.sql). 
+
+A download version of the Power BI report is available [Vantage Power BI Report](/Power BI Report/vantage_pbi.pbix) and as a viewable pdf [Vantage Power BI View](Power BI Report/vantage_pbi_view.pdf).
 
 ### SQL Techniques Used
 ```JOINs, CTEs, Window Functions, COALESCE, ABS, ROW NUMBER, IS NOT NULL```
